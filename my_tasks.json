@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Task-A",
+        "done": true
+    },
+    {
+        "task": "Task-B",
+        "done": true
+    },
+    {
+        "task": "Task-C",
+        "done": false
+    },
+    {
+        "task": "Task-D",
+        "done": false
+    },
+    {
+        "task": "Task-E",
+        "done": false
+    }
+]
